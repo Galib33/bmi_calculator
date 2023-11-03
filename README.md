@@ -1,5 +1,4 @@
-
-BMI Calculator
+# BMI Calculator
 
 - Quickly and accurately calculate your BMI by entering your height and weight.
 - Understand your BMI value and what it means for your health.
